@@ -17,7 +17,7 @@ This project is a Rubik's Cube simulator that allows users to execute various mo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/rubiks-cube-simulator.git
+    git clone https://github.com/Kinglord1090/rubiks-cube-simulator.git
     ```
 
 ## Usage
@@ -28,7 +28,7 @@ This project is a Rubik's Cube simulator that allows users to execute various mo
     ```
 2. Run the script:
     ```bash
-    python rubiks_cube_sim.py
+    python rubiks-cube-sim.py
     ```
 3. Enter a move when prompted (e.g., `U`, `L'`, `F2`). Type `X` to exit.
 4. The simulator will display the cube's state after each move.
